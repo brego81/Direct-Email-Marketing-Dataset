@@ -1,9 +1,8 @@
 # Direct Email Marketing optimisation with a Random Forest based approach 
-*Giulia De Poli, Maria Angélica Lobo Paulino, Stefania Tola, Manuela Bazzarelli, Leone De Marco and Matteo Bregonzio* 
+*Giulia De Poli, Maria Angélica Lobo Paulino, Stefania Tola, Manuela Bazzarelli, Leone De Marco and Matteo Bregonzio*\
 **ICDSST 2020, Zaragoza, Spain**
 
-This dataset sample has been used in our ICDSST 2020 publication and contains the pre-processed data relevant to the class upgrade campaign for a single company. 
-The dataset contains a set of features used to profile the user and another set to describe the campaign. The former is an aggregation of all user’s data collected just before sending the class upgrade marketing email. The second contains the characteristics of the marketing email itself. The challenge consists of predicting whether a user will actually purchase the class upgrade after receiving a marketing email. In the dataset the target variable is called 'success'. Please note that each row represents a single user however the user ID has been omitted since irrelevant for this task. Here follows a brief description dataset features.
+This dataset sample has been used in our ICDSST 2020 publication and contains the aggregated and pre-processed data used in the class upgrade campaign for a single company.The dataset is composed of a set of features used to profile the user and another to describe the campaign and the trip. The former is an aggregation of all user’s data collected just before sending the class upgrade marketing email. The second contains the characteristics of the marketing email itself. The challenge consists of predicting whether a user will actually purchase the class upgrade after receiving a marketing email. In the dataset the target variable is called 'success'. Please note that each row represents a single user however the user ID has been omitted since irrelevant for this task. Here follows a brief description of the dataset features.
 
 * **Previous purchase and general user information from CRM:** 
 	* age:  The user age
