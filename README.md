@@ -12,9 +12,9 @@ This dataset sample has been used in our ICDSST 2020 publication and contains th
 	* n_environmet: Number of trips done in the given environment 
 	* avg_npassengers: Average amount of passengers per trip 
 	* avg_price: Average tickets price 
-	* sdt_dev_price: Standart deviation from the tickets price 
+	* sdt_dev_price: Standard deviation from the tickets price 
 	* avg_distance: Average travel distance 
-	* sdt_dev_distance: Standart deviation from the travel 
+	* sdt_dev_distance: Standard deviation from the travel 
 	* since_last_purchase: Amount of days since the last purchase 
 * **Email interaction information:** 
 	* n_sent_campaign: Amount of sent emails from the given campaign 
@@ -27,7 +27,7 @@ This dataset sample has been used in our ICDSST 2020 publication and contains th
 	* n_bounces: Total amount of bounces 
 	* n_hits: Total amount of hits given by the user 
 	* avg_hits: Average amount of hits per session 
-	* total_session_duration 
+	* total_session_duration: Total amount of time with open session
 	* avg_session_duration: Average sessions duration 
 	* total_revenue: Total revenue gotten by the user 
 	* avg_revenue: Average revenue per session 
